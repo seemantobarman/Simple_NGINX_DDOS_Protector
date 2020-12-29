@@ -1,0 +1,40 @@
+2020/12/22 23:17:19 [error] 1160#7124: *2 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/12/22 23:20:33 [notice] 5936#7984: signal process started
+2020/12/23 17:55:46 [error] 8020#9836: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/12/23 17:57:27 [notice] 9276#9984: signal process started
+2020/12/23 19:41:58 [notice] 7492#9744: signal process started
+2020/12/23 19:41:58 [error] 7492#9744: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/23 20:33:56 [notice] 4580#3664: signal process started
+2020/12/23 20:47:34 [notice] 2512#8728: signal process started
+2020/12/23 21:04:12 [notice] 3068#1340: signal process started
+2020/12/23 21:18:57 [notice] 11644#11916: signal process started
+2020/12/23 21:19:18 [notice] 11900#3440: signal process started
+2020/12/23 21:19:18 [error] 11900#3440: OpenEvent("Global\ngx_stop_10596") failed (5: Access is denied)
+2020/12/23 21:20:21 [notice] 9944#9088: signal process started
+2020/12/23 21:20:46 [notice] 2592#5636: signal process started
+2020/12/23 21:20:46 [error] 2592#5636: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/23 21:21:23 [notice] 7036#544: signal process started
+2020/12/23 21:21:23 [error] 7036#544: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/23 21:22:10 [notice] 9072#11620: signal process started
+2020/12/23 21:29:04 [notice] 11468#7308: signal process started
+2020/12/23 21:31:51 [notice] 5576#11452: signal process started
+2020/12/23 21:33:07 [notice] 6824#11964: signal process started
+2020/12/28 00:41:19 [error] 10344#4712: *1 CreateFile() "F:\EWU\ICE_471\Project\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/12/28 00:42:05 [notice] 11928#6072: signal process started
+2020/12/28 00:57:04 [notice] 10880#9868: signal process started
+2020/12/28 01:07:10 [notice] 9964#11152: signal process started
+2020/12/28 01:09:48 [notice] 10416#1460: signal process started
+2020/12/28 01:18:53 [notice] 11444#11868: signal process started
+2020/12/28 01:55:38 [notice] 8976#9792: signal process started
+2020/12/28 02:09:31 [notice] 8792#3780: signal process started
+2020/12/29 22:07:20 [notice] 7260#10528: signal process started
+2020/12/29 22:08:57 [error] 2812#8400: *1 CreateFile() "F:\EWU\ICE_471\Project\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/12/29 22:09:34 [notice] 3924#6784: signal process started
+2020/12/29 22:24:06 [notice] 3932#7392: signal process started
+2020/12/29 22:25:52 [notice] 9664#7336: signal process started
+2020/12/29 22:30:47 [notice] 10616#10808: signal process started
+2020/12/29 22:32:33 [notice] 8644#10640: signal process started
+2020/12/30 01:47:29 [error] 10972#1128: *1 CreateFile() "F:\EWU\ICE_471\Project\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/12/30 01:51:00 [notice] 6760#7424: signal process started
+2020/12/30 02:15:32 [notice] 5276#9040: signal process started
+2020/12/30 02:19:26 [notice] 2136#7308: signal process started
